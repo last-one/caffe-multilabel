@@ -1,5 +1,6 @@
 ## Caffe-multilable
 
+This repository is for multilabel.
 
 ## License and Citation
 
